@@ -5,6 +5,8 @@ namespace The_Basics
     class Program
     {
         static void Main(string[] args)
+
+            ///made by nolan "cool bro" neilson
         {
             String str = @"N   N  N   N
 NN  N  NN  N            
